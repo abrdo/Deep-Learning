@@ -577,6 +577,7 @@ void matrixot_vizualizal(string filename, int x = 50, int y = 50, int bsize = 10
         }
         ss.clear();
         i++;
+        //comment
     }
 
 }

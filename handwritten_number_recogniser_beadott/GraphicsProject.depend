@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1491513239 source:c:\users\medvoz\documents\domi\bevprog2\mandelbrot\main.cpp
+	"graphics.hpp"
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<cmath>
+
+1491507089 c:\users\medvoz\documents\domi\bevprog2\mandelbrot\include\graphics.hpp
+	<string>
+
+1506286336 source:c:\users\medvoz\documents\4. félév\bevprog2\roka barany\main.cpp
+	"graphics.hpp"
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<cmath>
+	<ctime>
+
+1491507089 c:\users\medvoz\documents\4. félév\bevprog2\roka barany\include\graphics.hpp
+	<string>
+
+1507499315 source:c:\users\medvoz\documents\5. félév\deep learning\roka barany másolata\main.cpp
+	"graphics.hpp"
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<cmath>
+	<ctime>
+	<sstream>
+
+1491507089 c:\users\medvoz\documents\5. félév\deep learning\roka barany másolata\include\graphics.hpp
+	<string>
+
+1507901526 source:c:\users\medvoz\documents\5. félév\deep learning\handwritten_number_recogniser_test\main.cpp
+	"graphics.hpp"
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<cmath>
+	<ctime>
+	<sstream>
+
+1491507089 c:\users\medvoz\documents\5. félév\deep learning\handwritten_number_recogniser_test\include\graphics.hpp
+	<string>
+
+1507908804 source:c:\users\medvoz\documents\5. félév\deep learning\handwritten_number_recogniser\main.cpp
+	"graphics.hpp"
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<cmath>
+	<ctime>
+	<sstream>
+
+1491507089 c:\users\medvoz\documents\5. félév\deep learning\handwritten_number_recogniser\include\graphics.hpp
+	<string>
+
+1507940091 source:c:\users\medvoz\documents\5. félév\deep learning\handwritten_number_recogniser_beadott másolata\main.cpp
+	"graphics.hpp"
+	<vector>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<cmath>
+	<ctime>
+	<sstream>
+
+1491507089 c:\users\medvoz\documents\5. félév\deep learning\handwritten_number_recogniser_beadott másolata\include\graphics.hpp
+	<string>
+
